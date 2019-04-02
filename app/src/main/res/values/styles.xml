@@ -1,0 +1,32 @@
+<resources>
+    <style name="RecThemeLight" parent="AppThemeLight">
+        <item name="colorPrimary">@color/colorPrimary1</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark1</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="preferenceTheme">@style/PreferenceThemeOverlay</item>
+        <item name="recColor">@color/colorAccent</item>
+        <item name="cutColor">#0e0e0e</item>
+    </style>
+
+
+    <style name="RecThemeDark" parent="AppThemeDark">
+        <item name="colorPrimary">@color/colorPrimary1</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark1</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="preferenceTheme">@style/PreferenceThemeOverlay</item>
+        <item name="recColor">#c6c6c6</item>
+        <item name="cutColor">#0e0e0e</item>
+    </style>
+
+    <style name="RecThemeLight.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="RecThemeDark.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+</resources>
+

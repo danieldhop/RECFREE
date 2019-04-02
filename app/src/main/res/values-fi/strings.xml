@@ -1,0 +1,76 @@
+<resources>
+    <string name="app_name">Rec Audio Recorder</string>
+
+    <string-array name="sample_rate_text">
+        <item>48 kHz</item>
+        <item>44.1 kHz (CD)</item>
+        <item>32 kHz</item>
+        <item>22 kHz</item>
+        <item>16 kHz (default)</item>
+        <item>11 kHz</item>
+        <item>8 kHz (telephone)</item>
+    </string-array>
+
+    <string-array name="source_text">
+        <item>Mic</item>
+        <item>Unprocessed</item>
+        <item>Bluetooth</item>
+    </string-array>
+
+    <string-array name="themes_text">
+        <item>Theme White</item>
+        <item>Theme Dark</item>
+    </string-array>
+
+    <string-array name="channels_text">
+        <item>Mono (default)</item>
+        <item>Stereo</item>
+    </string-array>
+
+    <string name="no_folder_app">Ei kansionäkymäsovellusta asennettu</string>
+    <string name="hold_by_call">keskeytä (pidä soittaa)</string>
+    <string name="äänite_status_äänite">äänite</string>
+    <string name="recording_status_koodaus">koodaus</string>
+    <string name="recording_status_tauko">tauko</string>
+    <string name="recording_status_muokata">muokata</string>
+    <string name="confirm_cancel">Vahvista peruutus</string>
+    <string name="encoding_title">Koodaus ...</string>
+    <string name="pause_title">Tauko...</string>
+    <string name="recording_title">Äänite</string>
+    <string name="open_recording_folder">Avaa tallennuskansio</string>
+    <string name="recording_list_is_empty">Tallennuslista on tyhjä n Aloita tallennus napsauttamalla Tallenna</string>
+    <string name="record_button">Ennätys</string>
+    <string name="cut_button">Leikata</string>
+    <string name="stop_button">Stop</string>
+    <string name="cancel_button">Peruuttaa</string>
+    <string name="pause_button">Tauko</string>
+
+    <string name="pref_storage_title">Tallennusreitti</string>
+    <string name="pref_rate_title">Näytteenottotaajuus</string>
+    <string name="pref_encoding_title">koodaus</string>
+    <string name="pref_encoding_summary">Tulostustiedostomuodot (.wav, .m4a, ...)</string>
+    <string name="pref_mode_title">tila</string>
+    <string name="pref_mode_summary">Tallennuskanavat</string>
+    <string name="pref_nameformat_title">Nimiformaatti</string>
+    <string name="pref_pausecalls_title">Keskeytä puhelujen aikana</string>
+    <string name="pref_pausecalls_summary">Pysäytä nauhoitus vastaamalla ja jatka Hangup-toiminnolla</string>
+    <string name="pref_silence_title">Äänetila</string>
+    <string name="pref_silence_summary">Aseta puhelin hiljaiseen tilaan tallennuksen aikana</string>
+    <string name="pref_lockscreen_title">Lukitusnäytön säätimet</string>
+    <string name="pref_lockscreen_summary">Näytä ohjaimet, kun puhelin on lukittu</string>
+    <string name="pref_theme_title">Sovelluksen teema</string>
+    <string name="pref_theme_summary">Aseta sovelluksen teema (tumma/vaalea)</string>
+    <string name="pref_application">hakemus</string>
+    <string name="pref_recordings">Äänitykset</string>
+    <string name="pref_fly_title">Koodaus lennolla</string>
+    <string name="pref_fly_summary">Koodauksen salliminen lennossa poistaa muokkauksen ja kaatumisen</string>
+    <string name="hold_by_bluetooth">tauko (Bluetooth katkaistaan)</string>
+    <string name="menu_search">Hae</string>
+    <string name="save_as_wav">Tallenna nimellä WAV</string>
+    <string name="auto_close">Automaattinen sulkeminen (%1$d)</string>
+    <string name="mic_muted_error">Mic mykistyi</string>
+    <string name="mic_muted_pie">Android Pie ja edellä estävät käyttämättömien taustasovellusten käyttämisen mikrofonista. Poista selinux käytöstä tai asenna aiempi Android-versio!</string>
+    <string name="mic_paused">Käyttöjärjestelmä on keskeyttänyt mikrofonin, tallennusaika on pienempi kuin tallennetut tiedot. Tarkista, tukeeko laite taustan tallennusta tai se on tarpeeksi nopea valituille asetuksille</string>
+    <string name="tile_start_recording">Aloita äänitys</string>
+    <string name="tile_stop_recording">Lopeta tallennus</string>
+</resources>

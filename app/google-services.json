@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "401032453116",
+    "firebase_url": "https://rec-free-55eae.firebaseio.com",
+    "project_id": "rec-free-55eae",
+    "storage_bucket": "rec-free-55eae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:401032453116:android:e5c4afb92a4acd70",
+        "android_client_info": {
+          "package_name": "com.ultron.ultron"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "401032453116-5pnkpg24vnicboucskcfs3o9ii3drvvl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBktfeShMdruyeKgNNiOAgI3NOpW72-iw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

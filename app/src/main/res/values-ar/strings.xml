@@ -1,0 +1,76 @@
+<resources>
+    <string name="app_name">Rec مسجل الصوت</string>
+
+    <string-array name="sample_rate_text">
+        <item>48 kHz</item>
+        <item>44.1 kHz (CD)</item>
+        <item>32 kHz</item>
+        <item>22 kHz</item>
+        <item>16 kHz (default)</item>
+        <item>11 kHz</item>
+        <item>8 kHz (telephone)</item>
+    </string-array>
+
+    <string-array name="source_text">
+        <item>Mic</item>
+        <item>Unprocessed</item>
+        <item>Bluetooth</item>
+    </string-array>
+
+    <string-array name="themes_text">
+        <item>Theme White</item>
+        <item>Theme Dark</item>
+    </string-array>
+
+    <string-array name="channels_text">
+        <item>Mono (default)</item>
+        <item>Stereo</item>
+    </string-array>
+
+    <string name="no_folder_app">لم يتم تثبيت تطبيق مشاهدة المجلد</string>
+    <string name="hold_by_call">توقف مؤقت (الانتظار عن طريق الاتصال)</string>
+    <string name="تسجيل_status_تسجيل">تسجيل</string>
+    <string name="recording_status_التشفير">التشفير</string>
+    <string name="recording_status_وقفة">وقفة</string>
+    <string name="recording_status_تصحيح">تصحيح</string>
+    <string name="confirm_cancel">تأكيد الإلغاء</string>
+    <string name="encoding_title">التشفير...</string>
+    <string name="pause_title">وقفة...</string>
+    <string name="recording_title">تسجيل</string>
+    <string name="open_recording_folder">افتح مجلد التسجيل</string>
+    <string name="recording_list_is_empty">قائمة التسجيل فارغة \n \ n انقر فوق سجل لبدء التسجيل</string>
+    <string name="record_button">سجل</string>
+    <string name="cut_button">يقطع</string>
+    <string name="stop_button">توقف</string>
+    <string name="cancel_button">إلغاء</string>
+    <string name="pause_button">وقفة</string>
+
+    <string name="pref_storage_title">مسار التخزين</string>
+    <string name="pref_rate_title">معدل العينة</string>
+    <string name="pref_encoding_title">التشفير</string>
+    <string name="pref_encoding_summary">تنسيقات ملفات الإخراج (.wav ، .m4a ، ...)</string>
+    <string name="pref_mode_title">الوضع</string>
+    <string name="pref_mode_summary">قنوات التسجيل</string>
+    <string name="pref_nameformat_title">تنسيق الاسم</string>
+    <string name="pref_pausecalls_title">توقف مؤقت أثناء المكالمات</string>
+    <string name="pref_pausecalls_summary">أوقف التسجيل عند الرد واستمر في التعليق</string>
+    <string name="pref_silence_title">وضع الصمت</string>
+    <string name="pref_silence_summary">ضع الهاتف في وضع "الصمت" أثناء التسجيل</string>
+    <string name="pref_lockscreen_title">ضوابط قفل الشاشة</string>
+    <string name="pref_lockscreen_summary">إظهار عناصر التحكم عند قفل الهاتف</string>
+    <string name="pref_theme_title">موضوع التطبيق</string>
+    <string name="pref_theme_summary">تعيين سمة التطبيق (الظلام / الضوء)</string>
+    <string name="pref_application">الوضعية</string>
+    <string name="pref_recordings">التسجيلات</string>
+    <string name="pref_fly_title">الترميز على الطيران</string>
+    <string name="pref_fly_summary">تمكين الترميز أثناء الطيران يؤدي إلى تعطيل التحرير واسترداد الأعطال</string>
+    <string name="hold_by_bluetooth">توقف مؤقت (تم قطع اتصال البلوتوث)</string>
+    <string name="menu_search">بحث</string>
+    <string name="save_as_wav">حفظ باسم WAV</string>
+    <string name="auto_close">إغلاق تلقائي في (٪ 1 $ d)</string>
+    <string name="mic_muted_error">هيئة التصنيع العسكري صامتة</string>
+    <string name="mic_muted_pie">يمنع تطبيق Android Pie وما فوق تطبيقات الخلفية الخاملة من استخدام الميكروفون. يرجى تعطيل selinux أو تثبيت نسخة أندرويد السابقة!</string>
+    <string name="mic_paused">تم إيقاف الميكروفون مؤقتًا من قِبل نظام التشغيل ، ووقت التسجيل أقل من ذلك ، ثم تسجيل البيانات ، وتحقق مما إذا كان جهازك يدعم تسجيل الخلفية أم أنه سريع بما يكفي للإعدادات المحددة</string>
+    <string name="tile_start_recording">ابدأ التسجيل</string>
+    <string name="tile_stop_recording">إيقاف التسجيل</string>
+</resources>

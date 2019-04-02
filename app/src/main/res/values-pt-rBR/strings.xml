@@ -1,0 +1,93 @@
+<resources>
+    <string name="app_name">Rec Gravador de Áudio</string>
+
+    <string-array name="sample_rate_text">
+        <item>48 kHz</item>
+        <item>44,1 kHz (CD)</item>
+        <item>32 kHz</item>
+        <item>22 kHz</item>
+        <item>16 kHz (padrão)</item>
+        <item>11 kHz</item>
+        <item>8 kHz (chamada telefônica)</item>
+    </string-array>
+
+    <string-array name="source_text">
+        <item>Microfone</item>
+        <item>Não processado</item>
+        <item>Bluetooth</item>
+    </string-array>
+
+    <string-array name="themes_text">
+        <item>Tema claro</item>
+        <item>Tema escuro</item>
+    </string-array>
+
+    <string-array name="channels_text">
+        <item>Mono (padrão)</item>
+        <item>Estéreo</item>
+    </string-array>
+
+    <string name="no_folder_app">Um aplicativo para gerenciar arquivos não foi encontrado.</string>
+    <string name="hold_by_call">pausa (ao atender uma chamada)</string>
+    <string name="recording_status_recording">gravação</string>
+    <string name="recording_status_encoding">codificação</string>
+    <string name="recording_status_pause">pausado</string>
+    <string name="recording_status_edit">editando</string>
+    <string name="confirm_cancel">Confirme para cancelar</string>
+    <string name="encoding_title">Codificação ...</string>
+    <string name="recording_title">Gravação</string>
+    <string name="pause_title">No intervalo ...</string>
+    <string name="open_recording_folder">Abrir pasta de gravações</string>
+    <string name="recording_list_is_empty">A lista de gravações está vazia \n\n Pressione o ícone do microfone para iniciar a gravação</string>
+    <string name="record_button">Gravar</string>
+    <string name="cut_button">Cortar</string>
+    <string name="stop_button">Pare</string>
+    <string name="cancel_button">Cancelar</string>
+    <string name="pause_button">Pausa</string>
+
+    <string name="pref_storage_title">Pasta para gravações</string>
+    <string name="pref_rate_title">Frequência de amostragem</string>
+    <string name="pref_encoding_title">Codificação</string>
+    <string name="pref_encoding_summary">Formato de saída do arquivo (.wav, .mp3, etc.)</string>
+    <string name="pref_mode_title">Modo</string>
+    <string name="pref_mode_summary">Canais de gravação de áudio</string>
+    <string name="pref_nameformat_title">Formatar para nomear arquivos</string>
+    <string name="pref_pausecalls_title">Pausa nas chamadas telefônicas</string>
+    <string name="pref_pausecalls_summary">Parará de gravar quando for chamado e retornará quando você fechar o aplicativo</string>
+    <string name="pref_silence_title">Modo silencioso</string>
+    <string name="pref_silence_summary">Ative a opção \'Não perturbe\' durante a gravação</string>
+    <string name="pref_lockscreen_title">Controles na tela de bloqueio</string>
+    <string name="pref_lockscreen_summary">Exibe uma notificação para controlar quando está bloqueada</string>
+    <string name="pref_theme_title">Tema</string>
+    <string name="pref_theme_summary">Definir o tema (claro ou escuro)</string>
+    <string name="pref_application">Aplicação</string>
+    <string name="pref_recordings">Gravação</string>
+    <string name="pref_fly_title">Codificação em tempo real</string>
+    <string name="pref_fly_summary">Se codificado na hora, a edição e a recuperação contra falhas estão desativadas</string>
+    <string name="hold_by_bluetooth">pausa (bluetooth desconectado)</string>
+    <string name="menu_search">Pesquisar</string>
+    <string name="save_as_wav">Salvar como WAV</string>
+    <string name="auto_close">Fechar automaticamente em (%1$d)</string>
+    <string name="mic_muted_error">Micro silenciada</string>
+    <string name="mic_muted_pie">No Android Pie e mais tarde, você está impedindo que aplicativos em segundo plano usem o microfone. Por favor, desative o selinux ou instale a versão anterior do Android!</string>
+    <string name="mic_paused">Micro pausado pelo sistema, o tempo de gravação é menor que a data gravada, verifique se o seu dispositivo suporta gravação em segundo plano ou ajuste as configurações atuais.</string>
+    <string name="tile_start_recording">Iniciar gravação</string>
+    <string name="tile_stop_recording">Parar a gravação</string>
+
+    <string name="todos">todos</string>
+    <string name="stars">marcados</string>
+    <string name="name">Nome</string>
+    <string name="date">Data</string>
+
+    <string name="pref_filters">Filtro</string>
+    <string name="pref_voice_summary">Filtro de Audio</string>
+    <string name="pref_voice_title">Filtrar Audio</string>
+    <string name="pref_volume_title">Volume</string>
+
+    <string name="pref_skip_summary">Pular Silencio</string>
+    <string name="pref_skip_title">Pular Silencio</string>
+
+
+
+
+</resources>

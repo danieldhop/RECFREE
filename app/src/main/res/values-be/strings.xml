@@ -1,0 +1,76 @@
+<resources>
+    <string name="app_name">Запіс Audio Recorder</string>
+
+    <string-array name="sample_rate_text">
+        <item>48 kHz</item>
+        <item>44.1 kHz (CD)</item>
+        <item>32 kHz</item>
+        <item>22 kHz</item>
+        <item>16 kHz (default)</item>
+        <item>11 kHz</item>
+        <item>8 kHz (telephone)</item>
+    </string-array>
+
+    <string-array name="source_text">
+        <item>Mic</item>
+        <item>Unprocessed</item>
+        <item>Bluetooth</item>
+    </string-array>
+
+    <string-array name="themes_text">
+        <item>Theme White</item>
+        <item>Theme Dark</item>
+    </string-array>
+
+    <string-array name="channels_text">
+        <item>Mono (default)</item>
+        <item>Stereo</item>
+    </string-array>
+
+    <string name="no_folder_app">Няма выгляд тэчкі прыкладання, усталяванага</string>
+    <string name="hold_by_call">паўза (ўтрыманне выкліку)</string>
+    <string name="запіс_status_запіс">запіс</string>
+    <string name="recording_status_кадаваньне">кадаваньне</string>
+    <string name="recording_status_паўза">паўза</string>
+    <string name="recording_status_рэдагаваць">рэдагаваць</string>
+    <string name="confirm_cancel">пацвердзіць адмяніць</string>
+    <string name="encoding_title">Кадаванне ...</string>
+    <string name="pause_title">Паўза ...</string>
+    <string name="recording_title">запіс</string>
+    <string name="open_recording_folder">Адкрыць тэчку запісу</string>
+    <string name="recording_list_is_empty">Запіс Спіс пусты \п\nНажмите запіс для запісу</string>
+    <string name="record_button">запіс</string>
+    <string name="cut_button">крой</string>
+    <string name="stop_button">спыніць</string>
+    <string name="cancel_button">адмяніць</string>
+    <string name="pause_button">паўза</string>
+
+    <string name="pref_storage_title">шлях захоўвання</string>
+    <string name="pref_rate_title">частата дыскрэтызацыі</string>
+    <string name="pref_encoding_title">кадаваньне</string>
+    <string name="pref_encoding_summary">Фарматы выходных файлаў (.wav, .m4a, ...)</string>
+    <string name="pref_mode_title">рэжым</string>
+    <string name="pref_mode_summary">каналы запісу</string>
+    <string name="pref_nameformat_title">фармат імя</string>
+    <string name="pref_pausecalls_title">Паўза Падчас размовы</string>
+    <string name="pref_pausecalls_summary">Прыпынак запісу на адказы і працягваць завісанне</string>
+    <string name="pref_silence_title">рэжым Silence</string>
+    <string name="pref_silence_summary">Пакладзеце тэлефон у рэжым \"\"маўчання падчас запісу</string>
+    <string name="pref_lockscreen_title">LockScreen кіравання</string>
+    <string name="pref_lockscreen_summary">Паказаць элементы кіравання, калі тэлефон заблакаваны</string>
+    <string name="pref_theme_title">тэма прымянення</string>
+    <string name="pref_theme_summary">Ўсталяваць тэму прыкладання (цёмны/светлы)</string>
+    <string name="pref_application">дадатак</string>
+    <string name="pref_recordings">запісы</string>
+    <string name="pref_fly_title">Кадаванне на лета</string>
+    <string name="pref_fly_summary">Ўключэнне кадоўкі на ляту адключае рэдагаванне і аднаўленне пасля збояў</string>
+    <string name="hold_by_bluetooth">паўза (Bluetooth адключаны)</string>
+    <string name="menu_search">пошук</string>
+    <string name="save_as_wav">Захаваць як WAV</string>
+    <string name="auto_close">Аўто блізкія (%1$d)</string>
+    <string name="mic_muted_error">Mic прыглушаны</string>
+    <string name="mic_muted_pie">Android Pie і вышэй прадухілення прастою прыкладанняў у фонавым рэжыме з дапамогай мікрафона. Калі ласка, адключыце SELinux або ўсталяваць папярэднюю версію андроіда!</string>
+    <string name="mic_paused">Mic паўзы АС, падчас запісу менш, чым запісаныя дадзеныя, праверце, калі прылада падтрымлівае фонавую запіс або досыць хутка для выбраных налад</string>
+    <string name="tile_start_recording">пачаць запіс</string>
+    <string name="tile_stop_recording">спыніць запіс</string>
+</resources>
